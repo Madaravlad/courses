@@ -1,0 +1,32 @@
+// @import 'navbar';
+// @import 'burger-menu';
+// @import 'carousel';
+// @import 'btn';
+// @import 'drop-menu';
+// @import 'sb-search';
+// @import 'promo-block';
+// @import 'center-mode-carousel';
+// @import 'radial-progress';
+// @import 'company-clients-carousel';
+// @import 'breadcrumbs';
+// @import 'filter';
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../../fonts/OpenSans.woff') format('woff2'),
+        url('../../fonts/OpenSans.woff') format('woff'),
+        url('../../fonts/OpenSans.ttf') format('truetype'),
+        url('../../fonts/OpenSans.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('../../fonts/OpenSans-Extrabold.woff2') format('woff2'),
+        url('../../fonts/OpenSans-Extrabold.woff') format('woff'),
+        url('../../fonts/OpenSans-Extrabold.ttf') format('truetype'),
+        url('../../fonts/OpenSans-Extrabold.svg') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
